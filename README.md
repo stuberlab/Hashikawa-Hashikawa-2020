@@ -3,7 +3,7 @@ in the Mammalian Habenula" (Hashikawa, Hashikawa et al. 2020) from the Stuber la
 
 The majority of code is based on Seurat v3 package from Satija lab. Detail tutorial can also be found in their website https://satijalab.org/seurat/.
 
-Regulatory analysis is based on SCENIC package from Aertslab https://github.com/aertslab/SCENIC. 
+Regulatory analysis is based on SCENIC package from Aerts lab https://github.com/aertslab/SCENIC. 
 
 The analysis starts from the "Doublet Detection" code with the data deposited at GEO :GSE 137478. 
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE137478
